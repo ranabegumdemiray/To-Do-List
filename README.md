@@ -1,2 +1,3 @@
 # To-Do List
- to-do list with HTML, CSS and JavaScript
+To-do list page with HTML, CSS and JavaScript. 
+(Add task, remove task, check task and uncheck task)
